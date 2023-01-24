@@ -1,0 +1,15 @@
+/Users/renyongzheng/Documents/2023-spring-neu/spring/cs5097/renyong0102-cs5097-Spring2023--Renyong-/sample-code-c/bin/Debug/net7.0/sample-code-c
+/Users/renyongzheng/Documents/2023-spring-neu/spring/cs5097/renyong0102-cs5097-Spring2023--Renyong-/sample-code-c/bin/Debug/net7.0/sample-code-c.deps.json
+/Users/renyongzheng/Documents/2023-spring-neu/spring/cs5097/renyong0102-cs5097-Spring2023--Renyong-/sample-code-c/bin/Debug/net7.0/sample-code-c.runtimeconfig.json
+/Users/renyongzheng/Documents/2023-spring-neu/spring/cs5097/renyong0102-cs5097-Spring2023--Renyong-/sample-code-c/bin/Debug/net7.0/sample-code-c.dll
+/Users/renyongzheng/Documents/2023-spring-neu/spring/cs5097/renyong0102-cs5097-Spring2023--Renyong-/sample-code-c/bin/Debug/net7.0/sample-code-c.pdb
+/Users/renyongzheng/Documents/2023-spring-neu/spring/cs5097/renyong0102-cs5097-Spring2023--Renyong-/sample-code-c/obj/Debug/net7.0/sample-code-c.csproj.AssemblyReference.cache
+/Users/renyongzheng/Documents/2023-spring-neu/spring/cs5097/renyong0102-cs5097-Spring2023--Renyong-/sample-code-c/obj/Debug/net7.0/sample-code-c.GeneratedMSBuildEditorConfig.editorconfig
+/Users/renyongzheng/Documents/2023-spring-neu/spring/cs5097/renyong0102-cs5097-Spring2023--Renyong-/sample-code-c/obj/Debug/net7.0/sample-code-c.AssemblyInfoInputs.cache
+/Users/renyongzheng/Documents/2023-spring-neu/spring/cs5097/renyong0102-cs5097-Spring2023--Renyong-/sample-code-c/obj/Debug/net7.0/sample-code-c.AssemblyInfo.cs
+/Users/renyongzheng/Documents/2023-spring-neu/spring/cs5097/renyong0102-cs5097-Spring2023--Renyong-/sample-code-c/obj/Debug/net7.0/sample-code-c.csproj.CoreCompileInputs.cache
+/Users/renyongzheng/Documents/2023-spring-neu/spring/cs5097/renyong0102-cs5097-Spring2023--Renyong-/sample-code-c/obj/Debug/net7.0/sample-code-c.dll
+/Users/renyongzheng/Documents/2023-spring-neu/spring/cs5097/renyong0102-cs5097-Spring2023--Renyong-/sample-code-c/obj/Debug/net7.0/refint/sample-code-c.dll
+/Users/renyongzheng/Documents/2023-spring-neu/spring/cs5097/renyong0102-cs5097-Spring2023--Renyong-/sample-code-c/obj/Debug/net7.0/sample-code-c.pdb
+/Users/renyongzheng/Documents/2023-spring-neu/spring/cs5097/renyong0102-cs5097-Spring2023--Renyong-/sample-code-c/obj/Debug/net7.0/sample-code-c.genruntimeconfig.cache
+/Users/renyongzheng/Documents/2023-spring-neu/spring/cs5097/renyong0102-cs5097-Spring2023--Renyong-/sample-code-c/obj/Debug/net7.0/ref/sample-code-c.dll
